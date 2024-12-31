@@ -21,5 +21,22 @@
 		"happiness": 20,
 		"uniques": ["90% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Particle accelerator",
+		"uniqueTo": "Aliens",
+		"happiness": 100,
+		"production": 9999,
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]",
+			"[+9999 Production] from [Stone] tiles [in this city]",
+			"[+9999 Production] from [Marble] tiles [in this city]",
+			"[+9999 Production] from [Gold] tiles [in this city]",
+			"[+9999 Production] from [Silver] tiles [in this city]"
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 20,
+		"uniques": ["90% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
 	}
-]
